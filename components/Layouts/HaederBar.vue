@@ -17,7 +17,7 @@
     to="/" 
     class="text-3xl font-extrabold text-gray-900 hover:text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600 transition-all duration-300"
   >
-    BOT CMRU
+  CMRU BOT
   </NuxtLink>
 </div>
 

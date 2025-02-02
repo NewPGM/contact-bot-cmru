@@ -2,9 +2,9 @@
   <div class="flex flex-col items-center justify-start min-500-screen bg-gray-100 p-6">
     <!-- ข้อความ Welcome -->
     <div class="text-center flex flex-row">
-      <p class="text-6xl sm:text-7xl font-bold text-gray-900">Welcome to -</p>
+      <p class="text-6xl sm:text-7xl font-bold text-gray-900">Welcome to</p>
       <p class="text-6xl sm:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-yellow-500 to-orange-500">
-        BOT CMRU
+        - CMRU BOT
       </p>
     </div>
 
